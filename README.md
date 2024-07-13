@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.thebetechsolutions.co.za/portfolio/#blog](https://www.thebetechsolutions.co.za/portfolio/#blog)
 
-- 💬 Ask me about **Noodejs,C++,Java,SpringBoot and Android**
+- 💬 Ask me about **Nodejs,C++,Java,SpringBoot and Android**
 
 - 📫 How to reach me **lekomanyaneta18@gmail.com**
 
