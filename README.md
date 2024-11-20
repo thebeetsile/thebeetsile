@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **task-management-app**
 
-- 👨‍💻 All of my projects are available at [https://www.thebetechsolutions.co.za/portfolio/](https://www.thebetechsolutions.co.za/portfolio/)
+- 👨‍💻 All of my projects are available at [https://thebetechsolutions.co.za/Profile/#Projects)
 
-- 📝 I regularly write articles on [https://www.thebetechsolutions.co.za/portfolio/#blog](https://www.thebetechsolutions.co.za/portfolio/#blog)
+- 📝 I regularly write articles on [https://thebetechsolutions.co.za/Profile/)
 
 - 💬 Ask me about **Nodejs,C++,Java,SpringBoot and Android**
 
 - 📫 How to reach me **lekomanyaneta18@gmail.com**
 
-- 📄 Know about my experiences [https://www.thebetechsolutions.co.za/portfolio/#about](https://www.thebetechsolutions.co.za/portfolio/#about)
+- 📄 Know about my experiences [https://thebetechsolutions.co.za/Profile/#About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
