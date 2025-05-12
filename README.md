@@ -4,17 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NgUtI3tYLhuq5Vy0.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebeetsile" alt="thebeetsile" /></a> </p>
 
-- 🔭 I’m currently working on **task-management-app**
+- 🔭 I’m currently working on **music Detection Web app**
 
-- 👨‍💻 All of my projects are available at [https://thebetechsolutions.co.za/Profile/#Projects)
+- 👨‍💻 All of my projects are available at [https://thebetechsolutions.co.za/portfolio/#Projects)
 
-- 📝 I regularly write articles on [https://thebetechsolutions.co.za/Profile/)
+- 📝 I regularly write articles on [https://thebetechsolutions.co.za/portfolio/)
 
 - 💬 Ask me about **Nodejs,C++,Java,SpringBoot and Android**
 
 - 📫 How to reach me **lekomanyaneta18@gmail.com**
 
-- 📄 Know about my experiences [https://thebetechsolutions.co.za/Profile/#About)
+- 📄 Know about my experiences [https://thebetechsolutions.co.za/portfolio/#About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
