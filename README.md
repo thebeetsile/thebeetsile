@@ -4,21 +4,19 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*NgUtI3tYLhuq5Vy0.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebeetsile" alt="thebeetsile" /></a> </p>
 
-- 🔭 I’m currently working on **music Detection Web app**
+- 🔭 I’m currently working on **Task Management Web app**
 
 - 👨‍💻 All of my projects are available at [https://thebetechsolutions.co.za/portfolio/#Projects)
 
-- 📝 I regularly write articles on [https://thebetechsolutions.co.za/portfolio/)
-
 - 💬 Ask me about **Nodejs,C++,Java,SpringBoot and Android**
 
-- 📫 How to reach me **lekomanyaneta18@gmail.com**
+- 📫 How to reach me **thebeetsile.lekomanyane@gmail.com**
 
 - 📄 Know about my experiences [https://thebetechsolutions.co.za/portfolio/#About)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thebeetsile-lekomanyane-706b621a9/" target="blank">
+  <a href="https://www.linkedin.com/in/thebeetsile-aaron-lekomanyane-706b621a9/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thebeetsile-lekomanyane-706b621a9/" height="30" width="40" />
   </a>
   <a href="https://wa.me/0655730330" target="blank">
