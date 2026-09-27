@@ -8,7 +8,7 @@
 <h3 align="center">Junior Software Developer based in South Africa</h3>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=thebeetsile">
+  <a href="https://github.com/thebeetsile?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=thebeetsile" alt="GitHub profile trophies" />
   </a>
 </p>
