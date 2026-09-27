@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/thebeetsile?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=thebeetsile" alt="GitHub profile trophies" />
+    <img src="https://github-trophies.vercel.app/?username=thebeetsile" alt="GitHub profile trophies — click to view achievements" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thebeetsile&show_icons=true&locale=en&layout=compact" alt="Most-used languages on GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=thebeetsile&layout=compact" alt="Most-used languages on GitHub" />
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebeetsile" alt="GitHub contribution streak" />
