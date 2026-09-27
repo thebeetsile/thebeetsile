@@ -93,8 +93,5 @@
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=thebeetsile&layout=compact" alt="Most-used languages on GitHub" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thebeetsile" alt="GitHub contribution streak" />
 </p>
